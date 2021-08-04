@@ -5,7 +5,7 @@
 
 ### Fork & Give Me Star ⭐️ ⭐️ ⭐️ ⭐️ 
 # 🤩🤩🤩
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/prabhasha-p/HexzyBot)
 
 <p align="center"><a href="https://t.me/HitechRocket"><img src="https://telegra.ph/file/b41dfb16ec665a841f884.png" width="800"></a></p>
 
